@@ -1,0 +1,15 @@
+C:\Users\Sandeep\Desktop\CSharp\JSON\JSON\bin\Debug\netcoreapp3.1\JSON.exe
+C:\Users\Sandeep\Desktop\CSharp\JSON\JSON\bin\Debug\netcoreapp3.1\JSON.deps.json
+C:\Users\Sandeep\Desktop\CSharp\JSON\JSON\bin\Debug\netcoreapp3.1\JSON.runtimeconfig.json
+C:\Users\Sandeep\Desktop\CSharp\JSON\JSON\bin\Debug\netcoreapp3.1\JSON.runtimeconfig.dev.json
+C:\Users\Sandeep\Desktop\CSharp\JSON\JSON\bin\Debug\netcoreapp3.1\JSON.dll
+C:\Users\Sandeep\Desktop\CSharp\JSON\JSON\bin\Debug\netcoreapp3.1\JSON.pdb
+C:\Users\Sandeep\Desktop\CSharp\JSON\JSON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sandeep\Desktop\CSharp\JSON\JSON\obj\Debug\netcoreapp3.1\JSON.csproj.AssemblyReference.cache
+C:\Users\Sandeep\Desktop\CSharp\JSON\JSON\obj\Debug\netcoreapp3.1\JSON.AssemblyInfoInputs.cache
+C:\Users\Sandeep\Desktop\CSharp\JSON\JSON\obj\Debug\netcoreapp3.1\JSON.AssemblyInfo.cs
+C:\Users\Sandeep\Desktop\CSharp\JSON\JSON\obj\Debug\netcoreapp3.1\JSON.csproj.CoreCompileInputs.cache
+C:\Users\Sandeep\Desktop\CSharp\JSON\JSON\obj\Debug\netcoreapp3.1\JSON.csproj.CopyComplete
+C:\Users\Sandeep\Desktop\CSharp\JSON\JSON\obj\Debug\netcoreapp3.1\JSON.dll
+C:\Users\Sandeep\Desktop\CSharp\JSON\JSON\obj\Debug\netcoreapp3.1\JSON.pdb
+C:\Users\Sandeep\Desktop\CSharp\JSON\JSON\obj\Debug\netcoreapp3.1\JSON.genruntimeconfig.cache
